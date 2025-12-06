@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "플레이어를 위한 통계 및 진행 시스템. 영혼의 책을 장착하여 능력치에 접근하세요.",
+  "fml.menu.mods.info.displayname.statssystem": "능력치 시스템",
+  "item.statssystem.soul_book": "영혼의 책",
+  "curios.identifier.soul_book": "영혼의 책",
+  "curios.modifiers.soul_book": "영혼의 책 슬롯에 있을 때:",
+  "key.statssystem.open_stats": "능력치 열기 (영혼의 책)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "우클릭하여 능력치 보기",
+  "tooltip.statssystem.soul_book.line2": "또는 Curios 인벤토리에 장착",
+  "tooltip.statssystem.soul_book.line3": "✦ 슬롯: 영혼의 책",
+  "tooltip.statssystem.soul_book.line4": "(R키로 빠른 접근)",
+  "message.statssystem.soul_book.equipped": "✦ 영혼의 책 장착됨 - R키를 눌러 열기",
+  "message.statssystem.soul_book.unequipped": "영혼의 책 해제됨",
+  "message.statssystem.soul_book.required": "✗ 능력치를 보려면 영혼의 책이 필요합니다"
+}

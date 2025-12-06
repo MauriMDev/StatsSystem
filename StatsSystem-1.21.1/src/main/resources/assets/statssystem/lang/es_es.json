@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "Sistema de estadísticas y progresión para jugadores. Equipá el Soul Book para acceder a tus stats.",
+  "fml.menu.mods.info.displayname.statssystem": "Sistema de Estadísticas",
+  "item.statssystem.soul_book": "Libro del Alma",
+  "curios.identifier.soul_book": "Libro del Alma",
+  "curios.modifiers.soul_book": "Cuando está en el Slot de Libro del Alma:",
+  "key.statssystem.open_stats": "Abrir Estadísticas (Soul Book)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "Clic derecho para ver tus estadísticas",
+  "tooltip.statssystem.soul_book.line2": "o equípalo en tu inventario Curios",
+  "tooltip.statssystem.soul_book.line3": "✦ Slot: Libro del Alma",
+  "tooltip.statssystem.soul_book.line4": "(Acceso rápido con tecla R)",
+  "message.statssystem.soul_book.equipped": "✦ Soul Book equipado - Presiona R para abrirlo",
+  "message.statssystem.soul_book.unequipped": "Soul Book desequipado",
+  "message.statssystem.soul_book.required": "✗ Necesitas el Soul Book para ver tus estadísticas"
+}

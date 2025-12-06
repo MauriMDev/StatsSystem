@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "プレイヤー向けの統計と進行システム。魂の書を装備してステータスにアクセス。",
+  "fml.menu.mods.info.displayname.statssystem": "ステータスシステム",
+  "item.statssystem.soul_book": "魂の書",
+  "curios.identifier.soul_book": "魂の書",
+  "curios.modifiers.soul_book": "魂の書スロットにある時:",
+  "key.statssystem.open_stats": "ステータスを開く（魂の書）",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "右クリックでステータスを表示",
+  "tooltip.statssystem.soul_book.line2": "またはCuriosインベントリに装備",
+  "tooltip.statssystem.soul_book.line3": "✦ スロット: 魂の書",
+  "tooltip.statssystem.soul_book.line4": "（Rキーでクイックアクセス）",
+  "message.statssystem.soul_book.equipped": "✦ 魂の書を装備しました - Rキーで開く",
+  "message.statssystem.soul_book.unequipped": "魂の書を外しました",
+  "message.statssystem.soul_book.required": "✗ ステータスを見るには魂の書が必要です"
+}

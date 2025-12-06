@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "Statistics and progression system for players. Equip the Soul Book to access your stats.",
+  "fml.menu.mods.info.displayname.statssystem": "Stats System",
+  "item.statssystem.soul_book": "Soul Book",
+  "curios.identifier.soul_book": "Soul Book",
+  "curios.modifiers.soul_book": "When in Soul Book Slot:",
+  "key.statssystem.open_stats": "Open Stats (Soul Book)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "Right-click to view your statistics",
+  "tooltip.statssystem.soul_book.line2": "or equip it in your Curios inventory",
+  "tooltip.statssystem.soul_book.line3": "✦ Slot: Soul Book",
+  "tooltip.statssystem.soul_book.line4": "(Quick access with R key)",
+  "message.statssystem.soul_book.equipped": "✦ Soul Book equipped - Press R to open it",
+  "message.statssystem.soul_book.unequipped": "Soul Book unequipped",
+  "message.statssystem.soul_book.required": "✗ You need the Soul Book to view your statistics"
+}

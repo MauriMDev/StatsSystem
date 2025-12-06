@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "玩家的統計和進度系統。裝備靈魂之書以存取你的屬性。",
+  "fml.menu.mods.info.displayname.statssystem": "統計系統",
+  "item.statssystem.soul_book": "靈魂之書",
+  "curios.identifier.soul_book": "靈魂之書",
+  "curios.modifiers.soul_book": "當在靈魂之書槽位時：",
+  "key.statssystem.open_stats": "開啟統計（靈魂之書）",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "右鍵查看你的統計",
+  "tooltip.statssystem.soul_book.line2": "或裝備在Curios物品欄中",
+  "tooltip.statssystem.soul_book.line3": "✦ 槽位：靈魂之書",
+  "tooltip.statssystem.soul_book.line4": "（按R鍵快速存取）",
+  "message.statssystem.soul_book.equipped": "✦ 靈魂之書已裝備 - 按R開啟",
+  "message.statssystem.soul_book.unequipped": "靈魂之書已卸下",
+  "message.statssystem.soul_book.required": "✗ 你需要靈魂之書才能查看統計"
+}

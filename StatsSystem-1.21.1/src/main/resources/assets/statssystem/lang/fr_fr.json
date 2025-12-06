@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "Système de statistiques et de progression pour les joueurs. Équipez le Livre de l'Âme pour accéder à vos stats.",
+  "fml.menu.mods.info.displayname.statssystem": "Système de Statistiques",
+  "item.statssystem.soul_book": "Livre de l'Âme",
+  "curios.identifier.soul_book": "Livre de l'Âme",
+  "curios.modifiers.soul_book": "Lorsqu'il est dans l'emplacement Livre de l'Âme:",
+  "key.statssystem.open_stats": "Ouvrir les statistiques (Livre de l'Âme)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "Clic droit pour voir vos statistiques",
+  "tooltip.statssystem.soul_book.line2": "ou équipez-le dans votre inventaire Curios",
+  "tooltip.statssystem.soul_book.line3": "✦ Emplacement: Livre de l'Âme",
+  "tooltip.statssystem.soul_book.line4": "(Accès rapide avec la touche R)",
+  "message.statssystem.soul_book.equipped": "✦ Livre de l'Âme équipé - Appuyez sur R pour l'ouvrir",
+  "message.statssystem.soul_book.unequipped": "Livre de l'Âme déséquipé",
+  "message.statssystem.soul_book.required": "✗ Vous avez besoin du Livre de l'Âme pour voir vos statistiques"
+}

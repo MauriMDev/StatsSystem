@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "Statistik- und Fortschrittssystem für Spieler. Rüste das Seelenbuch aus, um auf deine Stats zuzugreifen.",
+  "fml.menu.mods.info.displayname.statssystem": "Stats-System",
+  "item.statssystem.soul_book": "Seelenbuch",
+  "curios.identifier.soul_book": "Seelenbuch",
+  "curios.modifiers.soul_book": "Wenn im Seelenbuch-Slot:",
+  "key.statssystem.open_stats": "Statistiken öffnen (Seelenbuch)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "Rechtsklick, um deine Statistiken anzuzeigen",
+  "tooltip.statssystem.soul_book.line2": "oder rüste es in deinem Curios-Inventar aus",
+  "tooltip.statssystem.soul_book.line3": "✦ Slot: Seelenbuch",
+  "tooltip.statssystem.soul_book.line4": "(Schnellzugriff mit R-Taste)",
+  "message.statssystem.soul_book.equipped": "✦ Seelenbuch ausgerüstet - Drücke R, um es zu öffnen",
+  "message.statssystem.soul_book.unequipped": "Seelenbuch abgelegt",
+  "message.statssystem.soul_book.required": "✗ Du benötigst das Seelenbuch, um deine Statistiken anzuzeigen"
+}

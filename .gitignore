@@ -1,0 +1,26 @@
+# Archives and backups
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary MDK files
+mdks/
+
+# Gradle
+**/build/
+**/.gradle/
+
+# Development runtime files
+**/runs/
+**/logs/
+**/crash-reports/
+
+# IDE
+**/.idea/
+**/.vscode/
+**/.claude/

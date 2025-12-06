@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "Sistema di statistiche e progressione per i giocatori. Equipaggia il Libro dell'Anima per accedere alle tue stats.",
+  "fml.menu.mods.info.displayname.statssystem": "Sistema di Statistiche",
+  "item.statssystem.soul_book": "Libro dell'Anima",
+  "curios.identifier.soul_book": "Libro dell'Anima",
+  "curios.modifiers.soul_book": "Quando nello Slot del Libro dell'Anima:",
+  "key.statssystem.open_stats": "Apri Statistiche (Libro dell'Anima)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "Clic destro per visualizzare le tue statistiche",
+  "tooltip.statssystem.soul_book.line2": "o equipaggialo nel tuo inventario Curios",
+  "tooltip.statssystem.soul_book.line3": "✦ Slot: Libro dell'Anima",
+  "tooltip.statssystem.soul_book.line4": "(Accesso rapido con il tasto R)",
+  "message.statssystem.soul_book.equipped": "✦ Libro dell'Anima equipaggiato - Premi R per aprirlo",
+  "message.statssystem.soul_book.unequipped": "Libro dell'Anima rimosso",
+  "message.statssystem.soul_book.required": "✗ Hai bisogno del Libro dell'Anima per vedere le tue statistiche"
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.maurimdev.statssystem.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "FoodDataMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

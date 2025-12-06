@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "玩家的统计和进度系统。装备灵魂之书以访问你的属性。",
+  "fml.menu.mods.info.displayname.statssystem": "统计系统",
+  "item.statssystem.soul_book": "灵魂之书",
+  "curios.identifier.soul_book": "灵魂之书",
+  "curios.modifiers.soul_book": "当在灵魂之书槽位时：",
+  "key.statssystem.open_stats": "打开统计（灵魂之书）",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "右键查看你的统计",
+  "tooltip.statssystem.soul_book.line2": "或装备在Curios物品栏中",
+  "tooltip.statssystem.soul_book.line3": "✦ 槽位：灵魂之书",
+  "tooltip.statssystem.soul_book.line4": "（按R键快速访问）",
+  "message.statssystem.soul_book.equipped": "✦ 灵魂之书已装备 - 按R打开",
+  "message.statssystem.soul_book.unequipped": "灵魂之书已卸下",
+  "message.statssystem.soul_book.required": "✗ 你需要灵魂之书才能查看统计"
+}

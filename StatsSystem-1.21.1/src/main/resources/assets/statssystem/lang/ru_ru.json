@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.info.description.statssystem": "Система статистики и прогресса для игроков. Экипируйте Книгу Души для доступа к статам.",
+  "fml.menu.mods.info.displayname.statssystem": "Система Статистики",
+  "item.statssystem.soul_book": "Книга Души",
+  "curios.identifier.soul_book": "Книга Души",
+  "curios.modifiers.soul_book": "Когда в слоте Книги Души:",
+  "key.statssystem.open_stats": "Открыть статистику (Книга Души)",
+  "key.categories.statssystem": "Stats System",
+  "tooltip.statssystem.soul_book.line1": "ПКМ, чтобы посмотреть вашу статистику",
+  "tooltip.statssystem.soul_book.line2": "или экипируйте в инвентаре Curios",
+  "tooltip.statssystem.soul_book.line3": "✦ Слот: Книга Души",
+  "tooltip.statssystem.soul_book.line4": "(Быстрый доступ клавишей R)",
+  "message.statssystem.soul_book.equipped": "✦ Книга Души экипирована - Нажмите R, чтобы открыть",
+  "message.statssystem.soul_book.unequipped": "Книга Души снята",
+  "message.statssystem.soul_book.required": "✗ Вам нужна Книга Души, чтобы посмотреть статистику"
+}
